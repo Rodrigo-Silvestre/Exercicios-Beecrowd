@@ -12,7 +12,7 @@
  */
 import java.io.IOException;
 import java.util.Scanner;
-public class Mai {
+public class Main {
     public static void main(String[] args) throws IOException {
         Scanner dado = new Scanner(System.in);
         int valor;

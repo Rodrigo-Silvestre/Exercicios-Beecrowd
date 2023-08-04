@@ -14,7 +14,7 @@
  */
 import java.io.IOException;
 import java.util.Scanner;
-public class Main {
+public class BEE1020 {
     public static void main(String[] args) throws IOException {
         Scanner dado = new Scanner(System.in);
         int n, aux, ano, mes, dia = 0;

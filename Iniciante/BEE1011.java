@@ -14,7 +14,7 @@
  * O valor deverá ser apresentado com 3 casas após o ponto.
  */
 import java.util.Scanner;
-public class Main {
+public class BEE1011 {
 	public static void main(String[] args) {
 		Scanner dado = new Scanner(System.in);
 		double raio, pi = 3.14159, volume;

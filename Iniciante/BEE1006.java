@@ -14,7 +14,7 @@
  * caso contrário, você receberá "Presentation Error".
  */
 import java.util.Scanner;
-public class Main {
+public class BEE1006 {
 	public static void main(String[] args) {
 		Scanner dado = new Scanner(System.in);
 		double notaA, notaB, notaC, media, notaA2, notaB2, notaC2;

@@ -14,7 +14,7 @@
  * também deve haver um espaço em branco após o $
  */
 import java.util.Scanner;
-public class Main {
+public class BEE1008 {
 	public static void main(String[] args) {
 		Scanner dado = new Scanner(System.in);
 		int numeroFuncionario, quantidadeHoras;

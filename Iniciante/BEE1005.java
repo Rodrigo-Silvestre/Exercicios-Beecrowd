@@ -14,7 +14,7 @@
  * não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
  */
 import java.util.Scanner;
-public class Main {
+public class BEE1005 {
 	public static void main(String[] args) {
 		Scanner dado = new Scanner(System.in);
 		double notaA, notaB, media ,notaA2, notaB2;

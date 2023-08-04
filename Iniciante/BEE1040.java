@@ -18,7 +18,7 @@
  */
 import java.io.IOException;
 import java.util.Scanner;
-public class Main {
+public class BEE1040 {
     public static void main(String[] args) throws IOException {
         Scanner dado = new Scanner(System.in);
         double n1, n2, n3, n4, media = 0, exame = 0, mediaFinal = 0;

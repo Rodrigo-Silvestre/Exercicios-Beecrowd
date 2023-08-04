@@ -19,7 +19,7 @@
  * O valor calculado deve ser apresentado com 3 dígitos após o ponto decimal.
  */
 import java.util.Scanner;
-public class Main {
+public class BEE1012 {
 	public static void main(String[] args) {
 		Scanner dado = new Scanner(System.in);
 		double a, b, c, triangulo, circulo, trapezio, quadrado, retangulo;

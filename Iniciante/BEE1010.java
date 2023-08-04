@@ -14,7 +14,7 @@
  * O valor deverá ser apresentado com 2 casas após o ponto.
  */
 import java.util.Scanner;
-public class Main {
+public class BEE1010 {
 	public static void main(String[] args) {
 		Scanner dado = new Scanner(System.in);
 		int codigoPeca1, codigoPeca2, numeroPeca1, numeroPeca2;

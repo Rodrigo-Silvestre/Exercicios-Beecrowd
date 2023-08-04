@@ -11,7 +11,7 @@
  * Mostre a seguinte mensagem: “O JOGO DUROU XXX HORA(S) E YYY MINUTO(S)” .
  */
 import java.util.Scanner;
-public class Main {
+public class BEE1047 {
     public static void main(String[] args) {
         Scanner dado = new Scanner(System.in);
         int horaInicial, horaFinal, minutoInicial, minutoFinal, res = 0;

@@ -14,7 +14,7 @@
  */
 import java.io.IOException;
 import java.util.Scanner;
-public class Main {
+public class BEE1015 {
     public static void main(String[] args) throws IOException {
         Scanner dado = new Scanner(System.in);
         float x1, x2, y1, y2, soma = 0, resultado = 0;

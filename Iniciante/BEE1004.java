@@ -13,7 +13,7 @@
  */
 import java.io.IOException;
 import java.util.Scanner;
-public class Main {
+public class BEE1004 {
     public static void main(String[] args) throws IOException {
         Scanner dado = new Scanner(System.in);
         int a, b, prod;

@@ -15,7 +15,7 @@
  * Imprima o maior dos três valores seguido por um espaço e a mensagem "eh o maior"
  */
 import java.util.Scanner;
-public class Main {
+public class BEE1013 {
 	public static void main(String[] args) {
 		Scanner dado = new Scanner(System.in);
 		int a, b, c, maiorAB, maior, abs;

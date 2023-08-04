@@ -12,7 +12,7 @@
  * Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
  */
 import java.util.Scanner;
-public class Main {
+public class BEE1009 {
 	public static void main(String[] args) {
 		Scanner dado = new Scanner(System.in);
 		String nome;
